@@ -26,13 +26,13 @@ All groups follow the `Sec-` title-case standard:
 * `Sec-Dept-Contractors`
 
 ## Documentation Deliverables
-* [Organizational Design Document](Docs/docs_org_design.md)
+* [Organizational Design Document](Docs/docs_org-design.md/org-design.md)
 * [Naming Conventions Standard](docs/naming-convention.md)
 
 ## Key Screenshots
-* [All Users Verification](Screenshots/all-users.png)
-* [All Groups Verification](Screenshots/all-groups.png)
-* [Group Membership Detail](Screenshots/group-membership.png)
+* [All Users Verification](Screenshots/screenshots_users-list.png)
+* [All Groups Verification](Screenshots/screenshots_groups-list.png)
+* [Group Membership Detail](Screenshots/screenshots_group-memberships.png)
 
 ## Security Lessons Learned
 * **Group-Based Access Governance:** Assigning permissions directly to individual users leads to privilege creep and tracking failures. Managing access strictly through security groups ensures scalable onboarding and offboarding.
