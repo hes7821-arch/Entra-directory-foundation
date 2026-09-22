@@ -1,11 +1,11 @@
 Name [displayName] Required,User name [userPrincipalName] Required,Initial password [passwordProfile] Required,Block sign in (Yes/No) [accountEnabled],First name [givenName],Last name [surname],Job title [jobTitle],Department [department],Usage location [usageLocation]
-James Wilson,james.wilson@hes7821gmail515.onmicrosoft.com,TempPass2026!23,No,James,Wilson,Payroll Specialist,Finance,US
-Linda Thorne,linda.thorne@hes7821gmail515.onmicrosoft.com,TempPass2026!23,No,Linda,Thorne,Invoicing Specialist,Finance,US
-Robert Taylor,robert.taylor@hes7821gmail515.onmicrosoft.com,TempPass2026!23,No,Robert,Taylor,Sales Manager,Sales,US
-Amanda Hayes,amanda.hayes@hes7821gmail515.onmicrosoft.com,TempPass2026!23,No,Amanda,Hayes,Senior Account Executive,Sales,US
-Brian Martinez,brian.martinez@hes7821gmail515.onmicrosoft.com,TempPass2026!23,No,Brian,Martinez,Account Executive,Sales,US
-Rachel Adams,rachel.adams@hes7821gmail515.onmicrosoft.com,TempPass2026!23,No,Rachel,Adams,Account Executive,Sales,US
-Karen Howard,karen.howard@hes7821gmail515.onmicrosoft.com,TempPass2026!23,No,Karen,Howard,HR Director,HR,US
-Derek O'Neill,derek.oneill@hes7821gmail515.onmicrosoft.com,TempPass2026!23,No,Derek,O'Neill,Onboarding Specialist,HR,US
-Vikram Patel,vikram.patel@hes7821gmail515.onmicrosoft.com,TempPass2026!23,No,Vikram,Patel,Database Consultant,Contractors,US
-Sophia Delgado,sophia.delgado@hes7821gmail515.onmicrosoft.com,TempPass2026!23,No,Sophia,Delgado,QA Tester,Contractors,US
+James Wilson,james.wilson@hes7821gmail515.onmicrosoft.com,[REDACTED_PASSWORD],No,James,Wilson,Payroll Specialist,Finance,US
+Linda Thorne,linda.thorne@hes7821gmail515.onmicrosoft.com,[REDACTED_PASSWORD],No,Linda,Thorne,Invoicing Specialist,Finance,US
+Robert Taylor,robert.taylor@hes7821gmail515.onmicrosoft.com,[REDACTED_PASSWORD],No,Robert,Taylor,Sales Manager,Sales,US
+Amanda Hayes,amanda.hayes@hes7821gmail515.onmicrosoft.com,[REDACTED_PASSWORD],No,Amanda,Hayes,Senior Account Executive,Sales,US
+Brian Martinez,brian.martinez@hes7821gmail515.onmicrosoft.com,[REDACTED_PASSWORD],No,Brian,Martinez,Account Executive,Sales,US
+Rachel Adams,rachel.adams@hes7821gmail515.onmicrosoft.com,[REDACTED_PASSWORD],No,Rachel,Adams,Account Executive,Sales,US
+Karen Howard,karen.howard@hes7821gmail515.onmicrosoft.com,[REDACTED_PASSWORD],No,Karen,Howard,HR Director,HR,US
+Derek O'Neill,derek.oneill@hes7821gmail515.onmicrosoft.com,[REDACTED_PASSWORD],No,Derek,O'Neill,Onboarding Specialist,HR,US
+Vikram Patel,vikram.patel@hes7821gmail515.onmicrosoft.com,[REDACTED_PASSWORD],No,Vikram,Patel,Database Consultant,Contractors,US
+Sophia Delgado,sophia.delgado@hes7821gmail515.onmicrosoft.com,[REDACTED_PASSWORD],No,Sophia,Delgado,QA Tester,Contractors,US
